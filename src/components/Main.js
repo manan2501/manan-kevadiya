@@ -130,15 +130,6 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Contact</h2>
-          <div className="field half first">
-            <label htmlFor="name">Phone:</label>
-            <p>+91 9427988692</p>
-          </div>
-          <div className="field half">
-            <label htmlFor="email">Email:</label>
-            <p>kevadiyamanan@gmail.com</p>
-          </div>
-
           <ul className="icons">
             <li>
               <a href={JSONData.twitter} className="icon fa-twitter">
@@ -157,6 +148,13 @@ class Main extends React.Component {
               </a>
             </li>
           </ul>
+          <div className="field half first">
+            <label htmlFor="name">Phone: +91 9427988692</label>
+          </div>
+          <div className="field half">
+            <label htmlFor="email">Email: kevadiyamanan@gmail.com</label>
+          </div>
+
           {/* not visible in gatsby build */}
           {close}
           {/* <div style={closeStyle} onClick={() => this.props.onCloseArticle()}>
