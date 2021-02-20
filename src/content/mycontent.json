@@ -1,19 +1,18 @@
 {
-	"Title": "Aditya Ketkar | Personal Webpage",
-	"Name": "Aditya Ketkar",
+	"Title": "Manan Kevadiya | Personal Webpage",
+	"Name": "Manan Kevadiya",
 	"Description": [
-		"Recent graduate from BITS Pilani. Passionate about Space Technology, Cognitive Modelling and Open Source.",
-		"I grab every chance I get to travel, learn and create."
+		"Recent graduate from BITS Pilani. Passionate about Web Development, UI/UX designing and Gaming.",
+		"I grab every chance I get to code, learn and create."
 	],
-	"MainImage": "https://i.imgur.com/yQZNGdm.jpg",
+	"MainImage": "https://i.postimg.cc/RVdzwpDY/dp2.jpg",
 	"BackgroundURL": "",
 
-	"AboutImage": "https://i.imgur.com/5sOLND6.jpg",
+	"AboutImage": "https://i.postimg.cc/bJStttY6/1.jpg",
 	"AboutContent": [
-		"I’m a Computer Science major by day, a Table Tennis player by evening, a functional wantrepreneur by midnight and a hustler always.",
-		"If you can’t find me, it’s because I’m already cycling, off to a hike, or studying for an exam",
-		"I am passionate about Space Technology and Human Psychology (though, never studied them formally). A die-hard fan of Elon Musk.",
-		"I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can."
+		"I’m a Engineering student by day, a football player by evening, a functional wantrepreneur by midnight and a hustler always.",
+		"If you can’t find me, it’s because I’m already playing video-game, reading a book, watching anime or studying for an exam",
+		"I am passionate about Web Development and Human Psychology (though, never studied them formally). A die-hard fan of Elon Musk."
 	],
 
 	"WorkContent": [
@@ -55,14 +54,14 @@
 
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
 	"CV": "https://www.visualcv.com/aditya-ketkar/",
-	"Resume": "https://drive.google.com/file/d/1M1Vw1J7Yc3BFIgzJXX4_U-_nfIXCfK8n/view?usp=sharing",
+	"Resume": "https://drive.google.com/file/d/18mzE93DRM3JXYlAqIuTFQ-QSqHYJ1H22/view?usp=sharing",
 
-	"emailid": "mailto:adityaketkar848@gmail.com",
-	"linkedin": "https://linkedin.com/in/adityaketkar",
+	"emailid": "mmailto:kevadiyamanan@gmail.com",
+	"linkedin": "https://www.linkedin.com/in/manan-kevadiya/",
 	"wordpress": "https://technoshblog.wordpress.com/",
 	"facebook": "https://www.facebook.com/aditya",
-	"github": "https://github.com/adityaketkar",
-	"instagram": "http://www.adityaketkar.me",
-	"twitter": "https://twitter.com/ketkar_a",
+	"github": "https://github.com/manan2501",
+	"instagram": "https://www.instagram.com/mananbutclassymanan/",
+	"twitter": "https://twitter.com/MananKevadiya",
 	"medium": "https://medium.com/@ketkaraditya"
 }
